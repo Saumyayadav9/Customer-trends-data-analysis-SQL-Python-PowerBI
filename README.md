@@ -18,7 +18,7 @@ Feature engineering:
 Created age groups
 Derived purchase frequency metrics
 Removed redundant columns
-Loaded cleaned data into MySQL for further analysis
+Loaded cleaned data into PostgreSQL for further analysis
 
 🗄️ Data Analysis (SQL)
 Performed business-focused analysis including:
@@ -48,5 +48,5 @@ Promote top-rated products for better conversions
 
 🛠️ Tech Stack
 Python (Pandas, NumPy)
-SQL (MySQL)
+SQL (PostgreSQL)
 Power BI
